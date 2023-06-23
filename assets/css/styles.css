@@ -141,7 +141,6 @@ nav ul li a.active {
 }
 
 .hero-content {
-    width: 50%;
     justify-content: flex-start;
 }
 
@@ -186,7 +185,6 @@ nav ul li a.active {
 }
 
 .hero-img {
-    width: 50%;
     justify-content: flex-end;
 }
 
